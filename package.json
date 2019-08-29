@@ -1,0 +1,31 @@
+{
+  "name": "mil-intersection-observer",
+  "author": "MIL Made In Lagny",
+  "keywords": [
+    "intersection-observer",
+    "visibility",
+    "web-component",
+    "litElement"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madeInLagny/mil-intersection-observer.git"
+  },
+  "homepage": "https://github.com/madeInLagny/mil-intersection-observer",
+  "version": "1.0.0",
+  "description": "Intersection Observer element for webcomponents",
+  "main": "mil-intersection-observer.js",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "@polymer/iron-component-page": "^3.0.0-pre.20",
+    "@polymer/iron-demo-helpers": "^3.1.0",
+    "@polymer/test-fixture": "^4.0.2",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "wct-mocha": "^1.0.1"
+  }
+}
